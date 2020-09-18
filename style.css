@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(9, 78, 78);
+}
+hr{
+    background-color: rgb(56, 70, 107);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: chocolate;
+    border-width: 5px;
+    width: 20%;
+}
+h1{
+    color: darkkhaki;
+
+}
+h3{
+    color: darkkhaki;
+}
